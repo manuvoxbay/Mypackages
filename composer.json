@@ -1,0 +1,9 @@
+{
+    "name": "vigonut/press",
+    "description": "This is my sample package",
+    "license": "MIT",
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^3.7"
+    }
+}
